@@ -1,0 +1,14 @@
+C:\csharpProjects\GraphsBreadthFirstSearch\bin\Debug\netcoreapp2.1\GraphsBreadthFirstSearch.deps.json
+C:\csharpProjects\GraphsBreadthFirstSearch\bin\Debug\netcoreapp2.1\GraphsBreadthFirstSearch.runtimeconfig.json
+C:\csharpProjects\GraphsBreadthFirstSearch\bin\Debug\netcoreapp2.1\GraphsBreadthFirstSearch.runtimeconfig.dev.json
+c:\csharpProjects\GraphsBreadthFirstSearch\bin\Debug\netcoreapp2.1\GraphsBreadthFirstSearch.dll
+c:\csharpProjects\GraphsBreadthFirstSearch\bin\Debug\netcoreapp2.1\GraphsBreadthFirstSearch.pdb
+c:\csharpProjects\GraphsBreadthFirstSearch\obj\Debug\netcoreapp2.1\GraphsBreadthFirstSearch.csprojAssemblyReference.cache
+c:\csharpProjects\GraphsBreadthFirstSearch\obj\Debug\netcoreapp2.1\GraphsBreadthFirstSearch.csproj.CoreCompileInputs.cache
+c:\csharpProjects\GraphsBreadthFirstSearch\obj\Debug\netcoreapp2.1\GraphsBreadthFirstSearch.AssemblyInfoInputs.cache
+c:\csharpProjects\GraphsBreadthFirstSearch\obj\Debug\netcoreapp2.1\GraphsBreadthFirstSearch.AssemblyInfo.cs
+c:\csharpProjects\GraphsBreadthFirstSearch\obj\Debug\netcoreapp2.1\GraphsBreadthFirstSearch.dll
+c:\csharpProjects\GraphsBreadthFirstSearch\obj\Debug\netcoreapp2.1\GraphsBreadthFirstSearch.pdb
+c:\csharpProjects\GraphsBreadthFirstSearch\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\csharpProjects\GraphsBreadthFirstSearch\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\csharpProjects\GraphsBreadthFirstSearch\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll

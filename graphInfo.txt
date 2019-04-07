@@ -1,0 +1,22 @@
+undirected
+10
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+A B
+A C
+A E
+A D
+B C
+B E
+E F
+F G
+H I
+I J
